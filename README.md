@@ -21,7 +21,7 @@ In addition to securing their land on the blockchain, they can also refer to the
 This is an experiment, and we would like as much community input as possible. We’re trying to use low-tech code and equipment in order to scale this in areas with scarce economic and technological resources, and knowledge. Any and all input is appreciated.
 
 
-#Process for the BITNATION Land Registry and Deed Pilot
+#Process for BITNATION Land Registry and Deed Pilot
 
 
 The process contains three essential strands: land survey, land registry, and land deeding. However, before beginning it’s also key to understand the local context.
