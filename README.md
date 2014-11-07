@@ -1,9 +1,8 @@
 Land-Registery-And-Deeding
 ==========================
 
-
-###Land Registry and Land Deed Protocol
 #A Stake in the Ground.
+
 
 
 ##Overview
