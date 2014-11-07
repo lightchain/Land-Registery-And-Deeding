@@ -1,11 +1,11 @@
 Land-Registery-And-Deeding
 ==========================
 
-#A Stake in the Ground.
+A Stake in the Ground.
 
 
 
-##Overview
+#Overview
 
 
 BITNATION is an experimental form of Do-It-Yourself governance using decentralized, trustless models such as Bitcoin’s blockchain. Its key principle is that all participation is  voluntary. Meaning that there’s a community consent, and approval, timestamped in the blockchain for later reference, for every claim, and transaction.
