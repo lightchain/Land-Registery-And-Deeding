@@ -34,6 +34,21 @@ We have chosen Ghana as the place for the first pilot, because Ghana need improv
 
 What is the specific context -- how is the land used, what sort of contract exist, how can it be improved upon?
 
+Resource rights and management:
+
+*Water Rights
+
+*Shared Wells
+
+*Shared Sewage
+
+*Mining Rights
+
+*Community land: Parks, Streets, etc
+
+*Other shared resources
+
+
 1. http://www.fig.net/pub/fig2006/papers/ps07/ps07_15_sittie_0848.pdf
 
 2. http://www.doingbusiness.org/data/exploreeconomies/ghana/registering-property
