@@ -96,7 +96,7 @@ For the initial demo project, equipment will be rented locally.
 
 On the longer term we aim to facilitate easy access to cheap survey hardware in the form of smartphone accessory.
 
-The make and model of equipment used as well as accuracy assessment data should be recorded for each survey point. The urban canyons may influence the accuracy, for instance if the survey marker is in between tall trees or buildings. 
+The make and model of equipment used as well as accuracy assessment data should be recorded for each survey point. The urban canyons may influence the accuracy, for instance if the survey marker is in between tall trees or buildings. Hence, when conducting the pilot we will try to find an area with mainly low buildings. 
 
 This technology is improving rapidly with new PPP global augmentation services and low cost RTK products being released from various vendors frequently.
 
