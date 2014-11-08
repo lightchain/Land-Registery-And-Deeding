@@ -107,6 +107,17 @@ Enter the GPS coordinates of polygons in the Open Street Map cadastral layer.
 Other platforms to consider instead of OpenStreetMap includes GeoCommons, QGIS and GeoServer. 
 Refer nodes to the unique ID’s on each survey marker. 
 
+Gather the community together to give consensus on the map, both of their own land, and the neighbouring lands. If there need to be time to make sure consensus is met, that should be taken into account.
+
+#10. Give survey markers individual IDs
+
+#11. Get the owners of the x amount of land to sign of the map with their public keys
+
+#12. Register Individual Deed Contracts
+
+#13. Contracts for Rentals, Sale, Occupation, etc
+
+
 #Protocol
 
 In order to keep this simple, we can start with the basic functions of a land registry: register a region, split a region and merge regions. 
