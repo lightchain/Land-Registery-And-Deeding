@@ -98,3 +98,66 @@ On the longer term we aim to facilitate easy access to cheap survey hardware in 
 
 This technology is improving rapidly with new PPP global augmentation services and low cost RTK products being released from various vendors frequently.
 
+#Protocol
+
+In order to keep this simple, we can start with the basic functions of a land registry: register a region, split a region and merge regions. 
+
+BN_LAND_REGISTER
+
+FIELD
+DESCRIPTION
+Jurisdiction/Name
+Country/State/City/Community
+Proof of rights
+HASH of documents proving land rights
+Geometry
+List of geospatial coordinates, resulting in a non-self intersecting polygon.
+Owner
+Public key for community
+Signatures
+Community members x 4 or 5
+
+Message validation
+
+Name/Jurisdiction should be unique? (Perhaps Name/Jurisdiction should be one field)
+No land overlap will be allowed, if the registration polygon intersects any of the already existing registered regions it will be considered invalid
+Geometry should be a non-self intersecting polygon
+
+New owner’s public key is multi-signature and is governed by the community itself,  the BITNATION does not involve itself with how they will split the property amongst community members.
+
+BN_LAND_SPLIT
+
+FIELD
+DESCRIPTION
+INPUT
+ID of region
+(hash of C_LAND_REGISTER message)
+
+Payments:
+A: ??? BTC
+B: ??? BTC
+OUTPUTS
+List of new owners and regions defined by list of geospatial coordinates for each.
+
+OWNER A: (A1, A2, A3, A4, A5, A6)
+OWNER B: (B1, B2, B3, B4, B5, B6)
+…
+Legal
+HASH of any legal documentation.
+Signatures
+Community owners
+Individual owners of each land 
+
+Message validation
+
+Union of outputs geometry needs to match the input region exactly
+(insignificant math precision errors may need to be allowed)
+Outputs geometry should not overlap one another
+Signatures of community owners are required
+Signatures for payments are required (if there are payments involved)
+
+BN_LAND_MERGE
+
+When land needs to be restructured it may make sense to merge pieces back into one piece owned by a single owner. This may not be necessary, at first, since pieces could just be transferred to new owner, but for mapping purposes and ease of use it may be needed at some point.
+
+
