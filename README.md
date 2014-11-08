@@ -104,7 +104,7 @@ Another approach to mapping could be accurately georectified aerial images. Here
 
 Balloon Camera http://store.publiclab.org/products/balloon-mapping-kit
 
-Drone on a leash http://www.ted.com/talks/sergei_lupashin_a_flying_camera_on_a_leash
+Drone on a leash http://www.fotokite.com/#product
 
 It could be an practical approach to have RTK GNSS receiver with build in camera and WiFi / Bluetooth connectivity, that could be carried on a simple cheap quadcopter on a lesh or a balloon.
 
