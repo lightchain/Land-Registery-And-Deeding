@@ -89,4 +89,12 @@ This video can be used as inspiration: https://www.youtube.com/watch?v=fIetDYnj9
 
 Survey grade GPS equipment is expected to become increasingly cheap and accurate over the next few years ahead. The need for durable markers in the ground will therefore be of lesser importance in the future. This implies that the application of survey markers should rather be optional than mandatory.
 
+#8. Survey GPS/ GNSS hardware
+
+The survey equipment should perform at least as accurate as government requirement in the local region.
+For the initial demo project, equipment will be rented locally. 
+
+On the longer term we aim to facilitate easy access to cheap survey hardware in the form of smartphone accessory.
+
+This technology is improving rapidly with new PPP global augmentation services and low cost RTK products being released from various vendors frequently.
 
