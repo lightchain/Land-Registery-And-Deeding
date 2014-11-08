@@ -100,13 +100,13 @@ The make and model of equipment used as well as accuracy assessment data should 
 
 This technology is improving rapidly with new PPP global augmentation services and low cost RTK products being released from various vendors frequently.
 
-Another approach to mapping could be acurately georectified aerial images. Here are two relatively cheap and simple means that enables high resolution aerial photography.
+Another approach to mapping could be accurately georectified aerial images. Here are two relatively cheap and simple means that enables high resolution aerial photography.
 
 Balloon Camera http://store.publiclab.org/products/balloon-mapping-kit
 
 Drone on a leash http://www.ted.com/talks/sergei_lupashin_a_flying_camera_on_a_leash
 
-I could be an practical approach to have RTK GNSS receiver with build in camera and WiFi / Bluetooth connectivity, that could be carried on a simple cheap quadcopter on a lesh or a balloon.
+It could be an practical approach to have RTK GNSS receiver with build in camera and WiFi / Bluetooth connectivity, that could be carried on a simple cheap quadcopter on a lesh or a balloon.
 
 A micro drone with a camera could also be an option
 
