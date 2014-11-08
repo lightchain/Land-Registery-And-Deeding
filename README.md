@@ -37,11 +37,17 @@ What is the specific context -- how is the land used, what sort of contract exis
 Resource rights and management:
 
 *Water Rights
+
 *Shared Wells
+
 *Shared Sewage
+
 *Mining Rights
+
 *Community land: Parks, Streets, etc
+
 *Shared Cattle
+
 *Other shared resources
 
 Ghana land registery and deed open source reading material:
