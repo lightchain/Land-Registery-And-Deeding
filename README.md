@@ -100,6 +100,13 @@ The make and model of equipment used as well as accuracy assessment data should 
 
 This technology is improving rapidly with new PPP global augmentation services and low cost RTK products being released from various vendors frequently.
 
+#9. Enter GPS Data 
+
+Evaluate available OpenStreetMap editors for creating polygon plots. 
+Enter the GPS coordinates of polygons in the Open Street Map cadastral layer. 
+Other platforms to consider instead of OpenStreetMap includes GeoCommons and GeoServer. 
+Refer nodes to the unique ID’s on each survey marker. 
+
 #Protocol
 
 In order to keep this simple, we can start with the basic functions of a land registry: register a region, split a region and merge regions. 
