@@ -50,6 +50,7 @@ Resource rights and management:
 
 *Other shared resources
 
+Ghana land registery and deed open source reading material:
 
 1. http://www.fig.net/pub/fig2006/papers/ps07/ps07_15_sittie_0848.pdf
 
