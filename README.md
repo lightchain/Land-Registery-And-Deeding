@@ -104,7 +104,7 @@ This technology is improving rapidly with new PPP global augmentation services a
 
 Evaluate available OpenStreetMap editors for creating polygon plots. 
 Enter the GPS coordinates of polygons in the Open Street Map cadastral layer. 
-Other platforms to consider instead of OpenStreetMap includes GeoCommons and GeoServer. 
+Other platforms to consider instead of OpenStreetMap includes GeoCommons, QGIS and GeoServer. 
 Refer nodes to the unique ID’s on each survey marker. 
 
 #Protocol
