@@ -46,6 +46,8 @@ Resource rights and management:
 
 *Community land: Parks, Streets, etc
 
+*Shared Cattle
+
 *Other shared resources
 
 
@@ -80,4 +82,15 @@ The workshop will need to be carefully prepared in advance.
 #6. Decide on test area
 
 It could be a small street or a few houses with land bordering each other, perhaps 4-5 pieces of land owned by different persons. The strategy is that people with bordering land sign off on a common map with their public keys, so that it’s verifiable that the community agreed on the boundaries, not just individual owners.
+
+#7. Setup Survey Markers
+
+Leave the survey markers with the community (around 30 of them, assuming there are 4-5 plots of lands to survey, and further assuming they’re not all perfectly rectangular), and spend the time it takes to agree on where the markers are set-up, defining the boundaries between the lands. 
+
+Survey markers should be of durable materials to keep as landmarks over time. https://www.youtube.com/watch?v=fIetDYnj9Z0
+
+Survey markers might carry a unique ID (number, sticker, RF-ID). 
+
+Survey grade GPS equipment is expected to become increasingly cheap and accurate over the next few years ahead. The need for durable markers in the ground will therefore be of lesser importance in the future. This implies that the application of survey markers should rather be optional than mandatory.
+
 
