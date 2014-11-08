@@ -37,33 +37,21 @@ What is the specific context -- how is the land used, what sort of contract exis
 Resource rights and management:
 
 *Water Rights
-
 *Shared Wells
-
 *Shared Sewage
-
 *Mining Rights
-
 *Community land: Parks, Streets, etc
-
 *Shared Cattle
-
 *Other shared resources
 
 Ghana land registery and deed open source reading material:
 
 1. http://www.fig.net/pub/fig2006/papers/ps07/ps07_15_sittie_0848.pdf
-
 2. http://www.doingbusiness.org/data/exploreeconomies/ghana/registering-property
-
 3. http://usaidlandtenure.net/sites/default/files/country-profiles/full-reports/USAID_Land_Tenure_Ghana_Profile_0.pdf
-
 4. http://ghanahouseplans.com/gh/how-to-register-your-land-in-ghana.html
-
 5. https://www.fig.net/pub/accra/ppt/ts06/ts06_02_fosu_derby_ppt.pdf
-
 6. http://www.fig.net/pub/accra/papers/ts14/ts14_03_kuntumensah.pdf
-
 #3. Speak with the community leaders, and others
 
 Arrange meetings with community leaders in areas suitable for tests: areas where people live in (have property) and are currently non-deeded. Speak with the community leaders to see understand their perception on the land situation, and if they’re interested in trying out the registry pilot. 
